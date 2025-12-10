@@ -10,3 +10,36 @@ Script 2: 02_correlation.py => Mathematically prove which physical parameters dr
 Script 3: 03_curve_fitting.py => Use fitting curve to estimate total life based on the capacity trend.
 
 Script 4: 04_machine_learning.py => Train an ML model to predict RUL for an unseen battery.
+
+---
+## 📊 Conclusion
+
+Script 1 (01_visualization) : All cells (B5, B6, B7) demonstrate expected capacity fade over their cycle life, confirming the degradation phenomenon.
+
+Script 2 (02_correlation) : chT, disT, disV are better raw predictors than chV, chI, disI.
+
+---
+
+## 🎯 Purpose of This Project
+
+This project is designed for:
+
+* EIS fitting using Randles circuit model
+* Comparison of fitting approaches
+* GitHub portfolio demonstration
+
+---
+
+## 📌 Future Improvements
+
+* ...
+
+--- 
+
+## 🧑‍💻 Author
+
+Developed by: Vu Bao Chau Nguyen, Ph.D.
+
+Keywords: ....
+
+---
