@@ -7,9 +7,7 @@ Script 1: 01_visualization.py => Visualize the raw data to understand physical d
 
 Script 2: 02_correlation.py => Mathematically prove which physical parameters drive the aging process.
 
-Script 3: 03_curve_fitting.py => Use fitting curve to estimate total life based on the capacity trend.
-
-Script 4: 04_machine_learning.py => Train an ML model to predict RUL for an unseen battery.
+Script 3: 03_machine_learning.py => Train an ML model to predict RUL for an unseen battery.
 
 ---
 ## 📊 Conclusion
